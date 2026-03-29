@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- 帧1 -->
+  <g id="frame1" transform="translate(0, 0)">
+    <!-- 身体 -->
+    <rect x="8" y="8" width="16" height="20" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 -->
+    <rect x="4" y="12" width="4" height="6" fill="#ffccaa" />
+    <rect x="24" y="12" width="4" height="6" fill="#ffccaa" />
+    <!-- 腿部 -->
+    <rect x="8" y="28" width="6" height="4" fill="blue" />
+    <rect x="18" y="28" width="6" height="4" fill="blue" />
+  </g>
+  
+  <!-- 帧2 -->
+  <g id="frame2" transform="translate(32, 0)">
+    <!-- 身体 -->
+    <rect x="8" y="8" width="16" height="20" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 (稍微抬起) -->
+    <rect x="4" y="11" width="4" height="6" fill="#ffccaa" />
+    <rect x="24" y="11" width="4" height="6" fill="#ffccaa" />
+    <!-- 腿部 -->
+    <rect x="8" y="28" width="6" height="4" fill="blue" />
+    <rect x="18" y="28" width="6" height="4" fill="blue" />
+  </g>
+  
+  <!-- 帧3 -->
+  <g id="frame3" transform="translate(64, 0)">
+    <!-- 身体 -->
+    <rect x="8" y="8" width="16" height="20" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 -->
+    <rect x="4" y="12" width="4" height="6" fill="#ffccaa" />
+    <rect x="24" y="12" width="4" height="6" fill="#ffccaa" />
+    <!-- 腿部 -->
+    <rect x="8" y="28" width="6" height="4" fill="blue" />
+    <rect x="18" y="28" width="6" height="4" fill="blue" />
+  </g>
+  
+  <!-- 帧4 -->
+  <g id="frame4" transform="translate(96, 0)">
+    <!-- 身体 -->
+    <rect x="8" y="8" width="16" height="20" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 (稍微下垂) -->
+    <rect x="4" y="13" width="4" height="6" fill="#ffccaa" />
+    <rect x="24" y="13" width="4" height="6" fill="#ffccaa" />
+    <!-- 腿部 -->
+    <rect x="8" y="28" width="6" height="4" fill="blue" />
+    <rect x="18" y="28" width="6" height="4" fill="blue" />
+  </g>
+</svg>

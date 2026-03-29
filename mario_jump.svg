@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- 帧1：跳跃姿势1 -->
+  <g id="frame1" transform="translate(0, 0)">
+    <!-- 身体 (稍微弯曲) -->
+    <rect x="8" y="10" width="16" height="18" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 (向上伸展) -->
+    <rect x="4" y="8" width="4" height="6" fill="#ffccaa" />
+    <rect x="24" y="8" width="4" height="6" fill="#ffccaa" />
+    <!-- 腿部 (弯曲) -->
+    <rect x="10" y="28" width="4" height="4" fill="blue" />
+    <rect x="18" y="28" width="4" height="4" fill="blue" />
+  </g>
+  
+  <!-- 帧2：跳跃姿势2 -->
+  <g id="frame2" transform="translate(32, 0)">
+    <!-- 身体 (伸展) -->
+    <rect x="8" y="8" width="16" height="20" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 (完全伸展) -->
+    <rect x="2" y="6" width="6" height="4" fill="#ffccaa" />
+    <rect x="24" y="6" width="6" height="4" fill="#ffccaa" />
+    <!-- 腿部 (伸展) -->
+    <rect x="8" y="28" width="6" height="4" fill="blue" />
+    <rect x="18" y="28" width="6" height="4" fill="blue" />
+  </g>
+  
+  <!-- 帧3：跳跃姿势3 -->
+  <g id="frame3" transform="translate(64, 0)">
+    <!-- 身体 (空中) -->
+    <rect x="8" y="8" width="16" height="20" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 (平衡) -->
+    <rect x="4" y="10" width="4" height="6" fill="#ffccaa" />
+    <rect x="24" y="10" width="4" height="6" fill="#ffccaa" />
+    <!-- 腿部 (分开) -->
+    <rect x="6" y="28" width="6" height="4" fill="blue" />
+    <rect x="20" y="28" width="6" height="4" fill="blue" />
+  </g>
+  
+  <!-- 帧4：跳跃姿势4 (下落) -->
+  <g id="frame4" transform="translate(96, 0)">
+    <!-- 身体 (准备着陆) -->
+    <rect x="8" y="8" width="16" height="20" fill="red" />
+    <!-- 头部 -->
+    <circle cx="16" cy="6" r="6" fill="#ffccaa" />
+    <!-- 帽子 -->
+    <rect x="10" y="2" width="12" height="4" fill="red" />
+    <!-- 眼睛 -->
+    <circle cx="14" cy="6" r="1" fill="black" />
+    <!-- 胡子 -->
+    <rect x="12" y="8" width="8" height="2" fill="black" />
+    <!-- 手臂 (向下) -->
+    <rect x="4" y="14" width="4" height="6" fill="#ffccaa" />
+    <rect x="24" y="14" width="4" height="6" fill="#ffccaa" />
+    <!-- 腿部 (准备着陆) -->
+    <rect x="8" y="28" width="6" height="4" fill="blue" />
+    <rect x="18" y="28" width="6" height="4" fill="blue" />
+  </g>
+</svg>
